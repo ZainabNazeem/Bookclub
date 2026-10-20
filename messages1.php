@@ -17,11 +17,11 @@
         <a href="messages.php">Messages</a>
     </nav>
 
-    <hr>
+    <main>
 
     <h2>Received Messages</h2>
 
-    <hr>
+    </main>
 
     <footer>
         <p>&copy; 2026 City Book Club. All rights reserved.</p>
